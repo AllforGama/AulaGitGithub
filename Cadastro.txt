@@ -1,2 +1,6 @@
 Cadastro cliente
+<<<<<<< HEAD
 Fim do cadastro
+=======
+Finalização do cadastro
+>>>>>>> cadastro
